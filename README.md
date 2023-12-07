@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan Rudenko / @Czinaaz
-- 👀 I’m interested in programming, gamedev and coocking 
+- 👀 I’m interested in programming, gamedev and cooking 
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me : rudenko.ivan81@gmail.com
 
