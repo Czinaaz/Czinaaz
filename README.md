@@ -38,7 +38,7 @@ I am a Full Stack Developer  based in Poland.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -51,9 +51,12 @@ I am a Full Stack Developer  based in Poland.
 ---
 
 ### :fire: My Stats :
+<daiv align="center>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Czinaaz)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czinaaz&layout=compact)
+</div>
+
 
 ---
 :mailbox:How to reach me: 
