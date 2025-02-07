@@ -1,7 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/czinaaz/">
@@ -16,43 +13,34 @@
 </div>
 
 <h1 align="center">
-  Hey there, I’m Ivan Rudenko / @Czinaaz
+  Hi, I’m Ivan Rudenko 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
----
+
+
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer  based in Poland.  
+I am a Web Developer  based in Poland.  
 <!--- 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 --->
 
-- :zap: I am found of technology, web design, game development and game industry .
-- :speaker: English, Polish, Ukrainian, Russian .
+Languages: English, Polish, Ukrainian, Russian .
 
----
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="center>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
----
+### :hammer_and_wrench: Tech skills :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,bootstrap,vscode" />
+  </a>
+</p>
+
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Czinaaz)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czinaaz&layout=compact)
 
